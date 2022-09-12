@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvain</h1>
-<h3 align="center">A new Backend developer from Le Wagon Bordeaux 🚂</h3>
+<h3 align="center">A Backend developer from Le Wagon Bordeaux 🚂</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
